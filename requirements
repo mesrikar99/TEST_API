@@ -1,0 +1,21 @@
+Software Requirements
+  Python 3.1
+  Flask
+  Pandas
+  Numpy
+
+
+If you wish to install the Python Module refer to the link below:
+https://docs.python.org/3/using/windows.html#install-layout-option
+
+If you wish to install the Flask Module:
+1. Open the command Prompt
+2. $ pip install Flask
+
+If you wish to install the Pandas Module:
+1. Open the command Prompt
+2. conda install pandas
+
+If you wish to install the Numpy Module:
+1. Open the command Prompt
+2. pip install numpy
